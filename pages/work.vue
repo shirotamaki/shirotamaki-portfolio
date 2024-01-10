@@ -23,7 +23,7 @@
         </section>
         <section class="mb-8">
           <h3 class="text-lg">サービス URL</h3>
-          <div class="underline hover:opacity-75 transition-all duration-100 text-sm">
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
             <a href="https://www.outdoor-heart-sutra.com/" target="_blank" rel="noopener noreferrer"
               >https://www.outdoor-heart-sutra.com</a
             >
@@ -31,7 +31,7 @@
         </section>
         <section>
           <h3 class="text-lg">GitHub リポジトリ</h3>
-          <div class="underline hover:opacity-75 transition-all duration-100 text-sm">
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
             <a
               href="https://github.com/shirotamaki/outdoor-heart-sutra"
               target="_blank"
@@ -49,7 +49,7 @@
             Web
             アプリの概要や使い方、技術スタックやこだわった点、また開発過程での苦労や学んだこと、さらには今後の展望まで詳しく書いています。
           </p>
-          <div class="underline hover:opacity-75 transition-all duration-100 text-sm">
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
             <a
               href="https://shirotamaki.hatenablog.com/entry/release-blog"
               target="_blank"
@@ -61,7 +61,7 @@
         <section>
           <h3 class="text-lg mb-2">旅ログ</h3>
           <p class="leading-7">ドッグフーディングの様子を著した旅の記録になります。</p>
-          <div class="underline hover:opacity-75 transition-all duration-100 text-sm">
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
             <a
               href="https://shirotamaki.hatenablog.com/entry/travel-log-first"
               target="_blank"
@@ -69,7 +69,7 @@
               >https://shirotamaki.hatenablog.com/entry/travel-log-first</a
             >
           </div>
-          <div class="underline hover:opacity-75 transition-all duration-100 text-sm">
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
             <a
               href="https://shirotamaki.hatenablog.com/entry/travel-log-second"
               target="_blank"
@@ -80,11 +80,10 @@
           </div>
         </section>
       </section>
-
       <section class="mb-8">
         <h2 class="text-xl mb-4 border-b-2">反響</h2>
-        <P>反響結果をまとめたブログです</P>
-        <div class="underline hover:opacity-75 transition-all duration-100 text-sm">
+        <P class="leading-7">反響結果をまとめたブログです。</P>
+        <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
           <a
             href="https://shirotamaki.hatenablog.com/entry/2023/12/15/214224"
             target="_blank"
