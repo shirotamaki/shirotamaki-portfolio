@@ -1,0 +1,34 @@
+<template>
+  <div class="grid justify-items-center font-Poppins">
+    <ul class="grid justify-items-center font-Poppins">
+      <li class="mb-8">
+        <NuxtLink to="/">
+          <img
+            src="~/assets/images/kakutanitalk2022.png"
+            alt="kakutanitalk
+    LT"
+            class="sm:w-96 w-72 hover:opacity-50 transition-all duration-100 shadow-xl"
+          />
+        </NuxtLink>
+      </li>
+      <li class="mb-8">
+        <NuxtLink to="/">
+          <img
+            src="~/assets/images/sinatra_lt.jpeg"
+            alt="subatra LT"
+            class="sm:w-96 w-72 hover:opacity-50 transition-all duration-100 shadow-md"
+          />
+        </NuxtLink>
+      </li>
+      <li>
+        <NuxtLink to="/">
+          <img
+            src="~/assets/images/ruby_lt.jpeg"
+            alt="FBC LT"
+            class="sm:w-96 w-72 hover:opacity-50 transition-all duration-100 shadow-md"
+          />
+        </NuxtLink>
+      </li>
+    </ul>
+  </div>
+</template>
