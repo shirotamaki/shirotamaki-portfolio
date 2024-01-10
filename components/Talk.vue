@@ -2,17 +2,16 @@
   <div class="grid justify-items-center font-Poppins">
     <ul class="grid justify-items-center font-Poppins">
       <li class="mb-8">
-        <NuxtLink to="/">
+        <NuxtLink to="/talks/kakutanitalk">
           <img
             src="~/assets/images/kakutanitalk2022.png"
-            alt="kakutanitalk
-    LT"
+            alt="kakutanitalk LT"
             class="sm:w-96 w-72 hover:opacity-50 transition-all duration-100 shadow-xl"
           />
         </NuxtLink>
       </li>
       <li class="mb-8">
-        <NuxtLink to="/">
+        <NuxtLink to="/talks/sinatralt">
           <img
             src="~/assets/images/sinatra_lt.jpeg"
             alt="subatra LT"
@@ -21,7 +20,7 @@
         </NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/">
+        <NuxtLink to="/talks/rubylt">
           <img
             src="~/assets/images/ruby_lt.jpeg"
             alt="FBC LT"
