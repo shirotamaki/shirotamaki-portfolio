@@ -12,6 +12,8 @@
     "lintfix": "prettier --write . && npm run lint -- --fix"
   },
   "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.1.3",
+    "@nuxtjs/tailwindcss": "^6.10.4",
     "@typescript-eslint/eslint-plugin": "^6.18.0",
     "@typescript-eslint/parser": "^6.18.0",
     "@vue/eslint-config-prettier": "^9.0.0",
@@ -29,6 +31,11 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.5",
     "@nuxt/bridge": "^0.10.1"
   }
 }
