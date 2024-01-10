@@ -1,8 +1,14 @@
 <template>
   <div id="icons">
-    <a v-for="link in socialLinks" :key="link.name" :href="link.url" target="blank">
-      <font-awesome-icon :icon="['fab', link.icon]" />
-      <font-awesome-icon :icon="['fas', link.icon]" />
+    <a
+      v-for="link in socialLinks"
+      :key="link.name"
+      :href="link.url"
+      target="_blank"
+      class="hover:opacity-75 transition-all duration-100"
+    >
+      <font-awesome-icon :icon="['fab', link.icon]" class="icon-style" />
+      <font-awesome-icon :icon="['fas', link.icon]" class="icon-style" />
     </a>
   </div>
 </template>
@@ -13,7 +19,6 @@ const socialLinks = [
     name: 'X',
     url: 'https://twitter.com/tamaki460',
     icon: 'square-x-twitter',
-
   },
   {
     name: 'GitHub',
@@ -35,6 +40,12 @@ const socialLinks = [
 
 <style>
 a {
-  text-decoration:none
+  text-decoration: none;
+}
+
+.icon-style {
+  color: #4c4c4c;
+  font-size: 32px;
+  margin: 16px;
 }
 </style>
