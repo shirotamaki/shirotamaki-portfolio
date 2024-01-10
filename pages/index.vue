@@ -1,20 +1,16 @@
 <template>
-  <div>
+  <div class="grid justify-items-center">
     <section>
-      <img src="~/assets/images/myphoto.png" alt="My Photo" />
+      <MyPhoto />
       <SocialLinks />
     </section>
-
-    <ul>
-      <li>
-        <NuxtLink to="/portfolio">[自作サービス]アウトドア般若心経</NuxtLink>
-      </li>
-      <li>
-        <NuxtLink to="/lt">外部登壇</NuxtLink>
-      </li>
-      <li>
-        <NuxtLink to="/photo"></NuxtLink>
-      </li>
-    </ul>
+    <section class="mt-16 grid justify-items-center">
+      <h2 class="font-Poppins text-2xl">Works</h2>
+      <Work />
+    </section>
+    <section class="mt-16 grid justify-items-center">
+      <h2 class="font-Poppins text-2xl mb-4">Talks</h2>
+      <Talk />
+    </section>
   </div>
 </template>
