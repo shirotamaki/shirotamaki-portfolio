@@ -15,7 +15,9 @@
           <p>日時: 2022年12月19日（月）</p>
           <div>
             <span>場所: </span>
-            <span class="underline hover:opacity-75 transition-all duration-100 text-sm">
+            <span
+              class="underline hover:opacity-75 transition-all duration-100 text-sm break-words"
+            >
               <a
                 href="https://fjordbootcamp.connpass.com/event/268831/"
                 target="_blank"
@@ -50,6 +52,7 @@
         <section class="mb-16">
           <h2 class="text-xl mb-4 border-b-2">イベント動画</h2>
           <iframe
+            class="max-w-full w-full"
             width="384"
             height="216"
             src="https://www.youtube.com/embed/R9ky1mJNkPQ?si=Y-hJNWQUFa2DygrE&amp;start=2725"
@@ -62,7 +65,9 @@
         <section class="">
           <h2 class="text-xl mb-4 border-b-2">ブログ</h2>
           <div>
-            <span class="underline hover:opacity-75 transition-all duration-100 text-sm">
+            <span
+              class="underline hover:opacity-75 transition-all duration-100 text-sm break-words"
+            >
               <a
                 href="https://shirotamaki.hatenablog.com/entry/2023/01/19/001433"
                 target="_blank"
