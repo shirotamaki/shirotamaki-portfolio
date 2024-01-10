@@ -2,10 +2,7 @@
   <div>
     <section>
       <img src="~/assets/images/myphoto.png" alt="My Photo" />
-      <p><a href="https://twitter.com/tamaki460" target="_blank" rel="noopener noreferrer">X</a></p>
-      <p><a href="https://github.com/shirotamaki" target="_blank" rel="noopener noreferrer">github</a></p>
-      <p><a href="https://shirotamaki.hatenablog.com/" target="_blank" rel="noopener noreferrer">blog</a></p>
-      <p><a href="https://booklog.jp/users/tamaki460/all?category_id=3530577&status=3&rank=all&sort=sort_desc&display=front" target="_blank" rel="noopener noreferrer">ブクログ</a></p>
+      <SocialLinks />
     </section>
 
     <ul>
