@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <div class="flex flex-col min-h-screen">
     <Header />
-    <main>
-        <slot />
+    <main class="flex-grow">
+      <slot />
     </main>
     <Footer />
   </div>
