@@ -52,9 +52,9 @@
         <section class="mb-12">
           <h2 class="text-xl mb-4 border-b-2">イベント動画</h2>
           <iframe
-            class="max-w-full w-full"
-            width="384"
-            height="216"
+            class="sm:w-[480px] w-80 sm:h-[270px] h-48"
+            width="480"
+            height="270"
             src="https://www.youtube.com/embed/R9ky1mJNkPQ?si=Y-hJNWQUFa2DygrE&amp;start=2725"
             title="YouTube video player"
             frameborder="0"
