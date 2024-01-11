@@ -1,8 +1,8 @@
 <template>
   <div class="grid justify-items-center font-NotoSansJP">
-    <article class="sm:w-96 w-72">
+    <article class="sm:w-[480px] w-80">
       <h1>
-        <img src="~/assets/images/bootcamp.png" alt="bootcamp" class="sm:w-96 w-72" />
+        <img src="~/assets/images/bootcamp.png" alt="bootcamp" class="sm:w-[480px] w-80" />
       </h1>
       <section class="mt-12 mb-12">
         <section class="mb-12">

@@ -6,7 +6,7 @@
           <img
             src="~/assets/images/outdoor_heart_sutra_1200_630.png"
             alt="outdoor_heart_sutra"
-            class="sm:w-96 w-72 hover:opacity-55 transition-all duration-100 shadow-md"
+            class="sm:w-96 w-80 hover:opacity-55 transition-all duration-100 shadow-md"
           />
         </NuxtLink>
       </li>
@@ -15,7 +15,7 @@
           <img
             src="~/assets/images/bootcamp.png"
             alt="bootcamp"
-            class="sm:w-96 w-72 hover:opacity-75 transition-all duration-100 shadow-xl"
+            class="sm:w-96 w-80 hover:opacity-75 transition-all duration-100 shadow-xl"
           />
         </NuxtLink>
       </li>
