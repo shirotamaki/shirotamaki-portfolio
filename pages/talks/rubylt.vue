@@ -38,7 +38,7 @@
             </span>
           </div>
         </section>
-        <section class="">
+        <section class="mb-12">
           <h2 class="text-xl mb-4 border-b-2">登壇資料</h2>
           <iframe
             class="speakerdeck-iframe"
@@ -59,6 +59,21 @@
             "
             data-ratio="1.7777777777777777"
           ></iframe>
+        </section>
+        <section class="">
+          <h2 class="text-xl mb-4 border-b-2">ブログ</h2>
+          <div>
+            <span
+              class="underline hover:opacity-75 transition-all duration-100 text-sm break-words"
+            >
+              <a
+                href="https://shirotamaki.hatenablog.com/entry/2021/04/27/212835"
+                target="_blank"
+                rel="noopener noreferrer"
+                >初めてのLT会vol.7を開催しました</a
+              >
+            </span>
+          </div>
         </section>
       </section>
     </article>
