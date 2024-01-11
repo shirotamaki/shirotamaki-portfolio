@@ -4,21 +4,24 @@
       <h1>
         <img src="~/assets/images/sinatra_lt.jpeg" alt="sinatra lt" class="sm:w-96 w-72" />
       </h1>
-      <section class="">
-        <section class="mb-8">
+      <section class="mt-12 mb-12">
+        <section class="mb-12">
           <h2 class="text-xl mt-8 mb-4 border-b-2">概要</h2>
-          <p class="leading-7">Ruby LT会の登壇資料です。</p>
+          <p class="leading-7">RubyをテーマにしたLT会に登壇しました。</p>
           <p>日時: 2021年6月29日（火）</p>
           <div>
             <span>場所: </span>
             <span class="underline hover:opacity-75 transition-all duration-100 text-sm">
-              <a href="https://www.uniquevision.co.jp/" target="_blank" rel="noopener noreferrer"
+              <a
+                href="https://uniquevision.connpass.com/event/215217/"
+                target="_blank"
+                rel="noopener noreferrer"
                 >ユニークビジョン株式会社（オンライン）</a
               >
             </span>
           </div>
         </section>
-        <section class="mb-16">
+        <section class="">
           <h2 class="text-xl mb-4 border-b-2">登壇資料</h2>
           <iframe
             class="speakerdeck-iframe"
