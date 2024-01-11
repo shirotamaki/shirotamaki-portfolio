@@ -7,12 +7,15 @@
       <section class="">
         <section class="mb-8">
           <h2 class="text-xl mt-8 mb-4 border-b-2">概要</h2>
-          <p class="leading-7">Ruby LT会の登壇資料です。</p>
+          <p class="leading-7">RubyをテーマにしたLT会に登壇しました。</p>
           <p>日時: 2021年6月29日（火）</p>
           <div>
             <span>場所: </span>
             <span class="underline hover:opacity-75 transition-all duration-100 text-sm">
-              <a href="https://www.uniquevision.co.jp/" target="_blank" rel="noopener noreferrer"
+              <a
+                href="https://uniquevision.connpass.com/event/215217/"
+                target="_blank"
+                rel="noopener noreferrer"
                 >ユニークビジョン株式会社（オンライン）</a
               >
             </span>
