@@ -1,11 +1,11 @@
 <template>
   <div class="grid justify-items-center font-NotoSansJP">
-    <article class="sm:w-96 w-72">
+    <article class="sm:w-[480px] w-80">
       <h1>
         <img
           src="~/assets/images/outdoor_heart_sutra_1200_630.png"
           alt="outdoor_heart_sutra"
-          class="sm:w-96 w-72"
+          class="sm:w-[480px] w-80"
         />
       </h1>
       <section class="mt-4 mb-12">
@@ -16,7 +16,7 @@
               Webアプリケーションを開発しリリースしました。<br />ゼロから企画、開発し、運用、保守まで行っております。リリースにおいては、Twitter（現X）を中心に告知を行いました。利用シーンをイメージしてもらうためのブログを執筆しプロモーション活動も意識して行いました。結果、非常に多くの反響をいただき、リリースブログにおいては、リリースから
               4 日で 2,500 アクセスを記録し、はてなブログ全体の週間ランキング第 9
               位にランクインしました。 2023 年 12 月時点で 363
-              名のユーザーに登録いただいております。
+              名のユーザーにご登録いただいています。
             </p>
           </section>
         </section>

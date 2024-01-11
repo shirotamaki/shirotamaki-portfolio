@@ -1,11 +1,11 @@
 <template>
   <div class="grid justify-items-center font-NotoSansJP">
-    <article class="sm:w-96 w-72">
+    <article class="sm:w-[480px] w-80">
       <h1>
         <img
           src="~/assets/images/kakutanitalk2022.png"
           alt="kakutani talk 2022"
-          class="sm:w-96 w-72"
+          class="sm:w-[480px] w-80"
         />
       </h1>
       <section class="mt-12 mb-12">
