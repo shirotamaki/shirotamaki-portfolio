@@ -45,7 +45,7 @@ a {
 
 .icon-style {
   color: #4c4c4c;
-  font-size: 32px;
+  font-size: 36px;
   margin: 16px;
 }
 </style>

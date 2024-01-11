@@ -3,7 +3,7 @@
     <img
       src="~/assets/images/myphoto.png"
       alt="My Photo"
-      class="rounded-full sm:size-64 size-48 mb-4"
+      class="rounded-full sm:size-48 size-36 mb-4"
     />
   </div>
 </template>

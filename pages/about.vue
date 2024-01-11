@@ -1,5 +1,6 @@
 <template>
   <div class="grid justify-items-center">
+    <MyPhoto />
     <div class="mb-4">
       <img
         src="~/assets/images/business_card_profile.png"
