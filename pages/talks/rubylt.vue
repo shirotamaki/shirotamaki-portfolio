@@ -4,8 +4,8 @@
       <h1>
         <img src="~/assets/images/ruby_lt.jpeg" alt="ruby lt" class="sm:w-96 w-72" />
       </h1>
-      <section class="">
-        <section class="mb-8">
+      <section class="mt-12 mb-12">
+        <section class="mb-12">
           <h2 class="text-xl mt-8 mb-4 border-b-2">概要</h2>
           <p class="leading-7">フィヨルドブートキャンプ内でLT会を主催しました。</p>
           <p class="leading-7 mb-4">開催準備から司会、進行役も務めました。</p>

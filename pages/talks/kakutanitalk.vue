@@ -8,8 +8,8 @@
           class="sm:w-96 w-72"
         />
       </h1>
-      <section class="">
-        <section class="mb-8">
+      <section class="mt-12 mb-12">
+        <section class="mb-12">
           <h2 class="text-xl mt-8 mb-4 border-b-2">概要</h2>
           <p class="leading-7">角谷トーク2022のオープニングトークに登壇しました。</p>
           <p>日時: 2022年12月19日（月）</p>
@@ -27,7 +27,7 @@
             </span>
           </div>
         </section>
-        <section class="mb-16">
+        <section class="mb-12">
           <h2 class="text-xl mb-4 border-b-2">登壇資料</h2>
           <iframe
             class="speakerdeck-iframe"
@@ -49,7 +49,7 @@
             data-ratio="1.7777777777777777"
           ></iframe>
         </section>
-        <section class="mb-16">
+        <section class="mb-12">
           <h2 class="text-xl mb-4 border-b-2">イベント動画</h2>
           <iframe
             class="max-w-full w-full"
