@@ -4,15 +4,17 @@
       <h1>
         <img src="~/assets/images/book.png" alt="Book List" class="sm:w-[480px] w-80" />
       </h1>
-      <section class="mt-12 mb-12">
-        <section class="mb-12">
+      <section class="mt-12">
+        <section class="mb-2">
           <section class="mb-4">
             <h2 class="text-xl mb-4 border-b-2">読んだ技術書リスト</h2>
             <p class="leading-7"></p>
           </section>
           <section class="mb-6">
-            <h3 class="text-lg">以下外部サイト（ブクログ）のURLからもご確認いただけます</h3>
-            <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
+            <p class="leading-7">以下外部サイト（ブクログ）のURLからもご確認いただけます。</p>
+            <div
+              class="underline hover:opacity-75 transition-all duration-100 text-sm break-words mb-4"
+            >
               <a
                 href="https://booklog.jp/users/tamaki460/all?category_id=3530577&status=3&rank=all&sort=sort_desc&display=front"
                 target="_blank"
@@ -20,6 +22,9 @@
                 >https://booklog.jp/users/tamaki460/all?category_id=3530577&status=3&rank=all&sort=sort_desc&display=front</a
               >
             </div>
+            <p class="leading-7">
+              輪読会に参加した技術書にはチェックを入れています。関連するブログがある場合はリンクを貼っています。
+            </p>
           </section>
         </section>
         <section class="overflow-x-auto">

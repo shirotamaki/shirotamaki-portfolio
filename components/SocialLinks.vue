@@ -30,11 +30,6 @@ const socialLinks = [
     url: 'https://shirotamaki.hatenablog.com/',
     icon: 'blog',
   },
-  {
-    name: 'booklog',
-    url: 'https://booklog.jp/users/tamaki460/all?category_id=3530577&status=3&rank=all&sort=sort_desc&display=front',
-    icon: 'book',
-  },
 ]
 </script>
 
