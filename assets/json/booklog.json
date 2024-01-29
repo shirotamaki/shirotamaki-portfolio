@@ -1,0 +1,498 @@
+[
+  {
+    "category": "DB",
+    "title": "達人に学ぶDB設計徹底指南書: 初級者で終わりたくないあなたへ",
+    "author": "ミック",
+    "publisher": "翔泳社",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "DB",
+    "title": "楽々ERDレッスン",
+    "author": "羽生 章洋",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Design",
+    "title": "ノンデザイナーズ・デザインブック [第4版]",
+    "author": "Robin Williams",
+    "publisher": "マイナビ出版",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Design",
+    "title": "なるほどデザイン〈目で見て楽しむ新しいデザインの本。〉",
+    "author": "筒井 美希",
+    "publisher": "エムディエヌコーポレーション",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Git・GitHub",
+    "title": "GitHub Actions 実践入門",
+    "author": "miyajan",
+    "publisher": "BOOTH",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Git・GitHub",
+    "title": "独習Git",
+    "author": "Rick Umali",
+    "publisher": "翔泳社",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "Git・GitHub",
+    "title": "いちばんやさしいGit&GitHubの教本 第2版 人気講師が教えるバージョン管理&共有入門 (「いちばんやさしい教本」シリーズ)",
+    "author": "横田紋奈",
+    "publisher": "インプレス",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Git・GitHub",
+    "title": "GitHub実践入門 ~Pull Requestによる開発の変革 (WEB+DB PRESS plus)",
+    "author": "大塚 弘記",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Git・GitHub",
+    "title": "改訂2版 わかばちゃんと学ぶ Git使い方入門",
+    "author": "湊川あい",
+    "publisher": "シーアンドアール研究所",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "HTML・CSS",
+    "title": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座 (DL特典: CSS Flexbox チートシート)",
+    "author": "Mana",
+    "publisher": "SBクリエイティブ",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "HTML・CSS",
+    "title": "Web制作者のためのSassの教科書 改訂2版 Webデザインの現場で必須のCSSプリプロセッサ",
+    "author": "平澤 隆",
+    "publisher": "インプレス",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "HTTP",
+    "title": "イラスト図解式 この一冊で全部わかるWeb技術の基本",
+    "author": "NRIネットコム株式会社",
+    "publisher": "SBクリエイティブ",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "HTTP",
+    "title": "Webを支える技術 -HTTP、URI、HTML、そしてREST (WEB+DB PRESS plus)",
+    "author": "山本 陽平",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "JavaScript",
+    "title": "JavaScript Primer　迷わないための入門書 (アスキードワンゴ)",
+    "author": "azu",
+    "publisher": "ドワンゴ",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "JavaScript",
+    "title": "初めてのJavaScript 第3版 ―ES2015以降の最新ウェブ開発",
+    "author": "Ethan Brown",
+    "publisher": "オライリージャパン",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "JavaScript",
+    "title": "モダンJavaScriptの基本から始める React実践の教科書 (最新ReactHooks対応) (Informatics&IDEA)",
+    "author": "じゃけぇ(岡田 拓巳)",
+    "publisher": "SBクリエイティブ",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "JavaScript",
+    "title": "スラスラ読める JavaScript ふりがなプログラミング (ふりがなプログラミングシリーズ)",
+    "author": "リブロワークス",
+    "publisher": "インプレス",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "JavaScript",
+    "title": "マンガでわかるJavaScriptのPromise マンガでわかるプログラミング",
+    "author": "柳井 政和",
+    "publisher": "Amazon",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Linux",
+    "title": "Linux標準教科書",
+    "author": "宮原徹",
+    "publisher": "特定非営利活動法人エルピーアイジャパン（LPI-Japan）",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Linux",
+    "title": "新しいLinuxの教科書",
+    "author": "三宅 英明",
+    "publisher": "SBクリエイティブ",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "React",
+    "title": "TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発",
+    "author": "手島 拓也",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "React",
+    "title": "りあクト！ TypeScriptで始めるつらくないReact開発 第4版【? 言語・環境編】",
+    "author": "大岡由佳",
+    "publisher": "BOOTH",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby",
+    "title": "スラスラ読める Rubyふりがなプログラミング (ふりがなプログラミングシリーズ)",
+    "author": "リブロワークス",
+    "publisher": "インプレス",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby",
+    "title": "プロを目指す人のためのRuby入門 言語仕様からテスト駆動開発・デバッグ技法まで (Software Design plusシリーズ)",
+    "author": "伊藤 淳一",
+    "publisher": "技術評論社",
+    "readingCircle": "輪読会",
+    "blog": "https://shirotamaki.hatenablog.com/entry/2021/12/12/170255"
+  },
+  {
+    "category": "Ruby",
+    "title": "プロを目指す人のためのRuby入門[改訂2版] 言語仕様からテスト駆動開発・デバッグ技法まで (Software Design plus)",
+    "author": "伊藤 淳一",
+    "publisher": "技術評論社",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "Ruby",
+    "title": "ゼロからわかる Ruby 超入門 (かんたんIT基礎講座)",
+    "author": "五十嵐 邦明",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby",
+    "title": "たのしいRuby 第6版 (Informatics&IDEA)",
+    "author": "高橋 征義",
+    "publisher": "SBクリエイティブ",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby on Rails",
+    "title": "Ruby on Rails チュートリアル第6版：実例を使ってRailsを学ぼう",
+    "author": "Michael Hartl",
+    "publisher": "達人出版会",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby on Rails",
+    "title": "パーフェクト Ruby on Rails 【増補改訂版】 (Perfect series)",
+    "author": "すがわらまさのり",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby on Rails",
+    "title": "Railsの教科書",
+    "author": "五十嵐邦明",
+    "publisher": "達人出版会",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby on Rails",
+    "title": "独習Ruby on Rails",
+    "author": "小餅 良介",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Ruby on Rails",
+    "title": "現場で使える Ruby on Rails 5速習実践ガイド",
+    "author": "大場寧子",
+    "publisher": "マイナビ出版",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "SQL",
+    "title": "SQL 第2版: ゼロからはじめるデータベース操作",
+    "author": "ミック",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "SQL",
+    "title": "改訂第3版 すらすらと手が動くようになる SQL書き方ドリル (WEB+DB PRESS plus)",
+    "author": "羽生 章洋",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Test",
+    "title": "Everyday Rails - RSpecによるRailsテスト入門",
+    "author": "Aaron Sumner",
+    "publisher": "Leanpub",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Test",
+    "title": "はじめて学ぶソフトウェアのテスト技法",
+    "author": "リー・コープランド",
+    "publisher": "日経BP",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Test",
+    "title": "Jestではじめるテスト入門",
+    "author": "伊藤 貴之 / 椎葉 光行",
+    "publisher": "PEAKS",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Test",
+    "title": "フロントエンド開発のためのテスト入門 今からでも知っておきたい自動テスト戦略の必須知識",
+    "author": "吉井 健文",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Test",
+    "title": "知識ゼロから学ぶソフトウェアテスト 改訂版: アジャイル・クラウド時代のソフトウェアテスト",
+    "author": "高橋 寿一",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Vue.js",
+    "title": "改訂2版 基礎から学ぶVue.js [2.x対応! ]",
+    "author": "mio",
+    "publisher": "シーアンドアール研究所",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Vue.js",
+    "title": "Nuxt 3　フロントエンド開発の教科書",
+    "author": "WINGSプロジェクト　齊藤 新三",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "Vue.js",
+    "title": "Vue.js入門 基礎から実践アプリケーション開発まで",
+    "author": "川口 和也",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "アジャイル開発",
+    "title": "Team Geek ―Googleのギークたちはいかにしてチームを作るのか",
+    "author": "Brian W. Fitzpatrick",
+    "publisher": "オライリージャパン",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "アジャイル開発",
+    "title": "アジャイルサムライ－達人開発者への道－",
+    "author": "Jonathan Rasmusson",
+    "publisher": "オーム社",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "アジャイル開発",
+    "title": "アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~",
+    "author": "Mike Cohn",
+    "publisher": "毎日コミュニケーションズ",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "アジャイル開発",
+    "title": "いちばんやさしいアジャイル開発の教本 人気講師が教えるDXを支える開発手法 (いちばんやさしい教本)",
+    "author": "市谷聡啓",
+    "publisher": "インプレス",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "アジャイル開発",
+    "title": "SCRUM BOOT CAMP THE BOOK【増補改訂版】 スクラムチームではじめるアジャイル開発",
+    "author": "西村 直人",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "オブジェクト指向",
+    "title": "アジャイル時代のオブジェクト脳のつくり方: Rubyで学ぶ究極の基礎講座",
+    "author": "小林 慎治",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "オブジェクト指向",
+    "title": "オブジェクト指向でなぜつくるのか 第3版 知っておきたいOOP、設計、アジャイル開発の基礎知識",
+    "author": "平澤 章",
+    "publisher": "日経BP",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "情熱プログラマー ソフトウェア開発者の幸せな生き方",
+    "author": "Chad Fowler",
+    "publisher": "オーム社",
+    "readingCircle": null,
+    "blog": "https://shirotamaki.hatenablog.com/entry/2023/01/01/235142"
+  },
+  {
+    "category": "その他",
+    "title": "達人プログラマー(第2版): 熟達に向けたあなたの旅",
+    "author": "DavidThomas",
+    "publisher": "オーム社",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)",
+    "author": "Dustin Boswell",
+    "publisher": "オライリージャパン",
+    "readingCircle": "輪読会",
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック",
+    "author": "IPUSIRON",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": "https://shirotamaki.hatenablog.com/entry/2023/01/19/001636"
+  },
+  {
+    "category": "その他",
+    "title": "Getting Real",
+    "author": "Jason Fried / DHH",
+    "publisher": "Basecamp",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "WEB+DB PRESS Vol.102",
+    "author": "WEB+DB PRESS編集部",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": "https://shirotamaki.hatenablog.com/entry/2021/12/21/080445"
+  },
+  {
+    "category": "その他",
+    "title": "キタミ式イラストIT塾 基本情報技術者 令和02年 (情報処理技術者試験)",
+    "author": "きたみりゅうじ",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "世界一流エンジニアの思考法",
+    "author": "牛尾 剛",
+    "publisher": "文藝春秋",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "これでできる！はじめてのOSSフィードバックガイド　「つよいエンジニア」になるための実績の育て方 (技術の泉シリーズ（NextPublishing）)",
+    "author": "結城 洋志",
+    "publisher": "インプレスR&D",
+    "readingCircle": null,
+    "blog": "https://shirotamaki.hatenablog.com/entry/2023/10/11/231756"
+  },
+  {
+    "category": "その他",
+    "title": "アルゴリズム図鑑: 絵で見てわかる26のアルゴリズム",
+    "author": "石田 保輝",
+    "publisher": "翔泳社",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "Scrapbox情報整理術",
+    "author": "倉下 忠憲",
+    "publisher": "シーアンドアール研究所",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "ユウと魔法のプログラミング・ノート (O’REILLY KIDS)",
+    "author": "鳥井 雪",
+    "publisher": "オライリー・ジャパン",
+    "readingCircle": null,
+    "blog": null
+  },
+  {
+    "category": "その他",
+    "title": "WEB+DB PRESS Vol.110",
+    "author": "藤村 大介",
+    "publisher": "技術評論社",
+    "readingCircle": null,
+    "blog": null
+  }
+]
