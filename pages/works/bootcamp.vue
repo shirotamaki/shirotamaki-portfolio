@@ -34,21 +34,30 @@
             </ul>
           </section>
         </section>
+        <section class="mb-12">
+          <h2 class="text-xl mb-4 border-b-2">チーム開発で行ったこと</h2>
+          <p class="leading-7">
+            チーム開発で対応したイシューとレビューしたプルリクエストの一覧をまとめたブログになります。
+          </p>
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
+            <a
+              href="https://shirotamaki.hatenablog.com/entry/2023/01/19/001713"
+              target="_blank"
+              rel="noopener noreferrer"
+              >https://shirotamaki.hatenablog.com/entry/2023/01/19/001713</a
+            >
+          </div>
+        </section>
         <section class="">
-          <section class="">
-            <h2 class="text-xl mb-4 border-b-2">チーム開発で行ったこと</h2>
-            <p class="leading-7">
-              チーム開発で対応したイシューとレビューしたプルリクエストの一覧をまとめたブログになります。
-            </p>
-            <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
-              <a
-                href="https://shirotamaki.hatenablog.com/entry/2023/01/19/001713"
-                target="_blank"
-                rel="noopener noreferrer"
-                >https://shirotamaki.hatenablog.com/entry/2023/01/19/001713</a
-              >
-            </div>
-          </section>
+          <h2 class="text-xl mb-4 border-b-2">フィヨルドブートキャンプとは？</h2>
+          <p class="leading-7">
+            プログラマーとして就職を目指せるだけのスキルを身につけることを目標としたオンラインプログラミングスクールです。フィヨルドブートキャンプでは、就職を目指せるスキルを「現場の人間にとって、戦力になるプログラマー」としています。
+          </p>
+          <div class="underline hover:opacity-75 transition-all duration-100 text-sm break-words">
+            <a href="https://bootcamp.fjord.jp/welcome" target="_blank" rel="noopener noreferrer"
+              >https://bootcamp.fjord.jp/welcome</a
+            >
+          </div>
         </section>
       </section>
     </article>
