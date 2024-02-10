@@ -26,11 +26,19 @@
               >
             </div>
           </section>
-          <section>
+          <section class="mb-6">
             <ul>
               <li class="mt-4 ml-4 list-disc">参加期間: 4ヶ月</li>
               <li class="mt-1 ml-4 list-disc">対応したイシュー: 11</li>
               <li class="mt-1 ml-4 list-disc">レビューしたプルリクエスト: 13</li>
+            </ul>
+          </section>
+          <section>
+            <h3 class="text-lg">開発チーム構成</h3>
+            <ul>
+              <li class="mt-4 ml-4 list-disc">プロダクトオーナー: 1名(メンター)</li>
+              <li class="mt-1 ml-4 list-disc">スクラムマスター: 1名（メンター）</li>
+              <li class="mt-1 ml-4 list-disc">開発者: 5〜7名</li>
             </ul>
           </section>
         </section>
